@@ -1,0 +1,4 @@
+# assign Karthikeyan Atmakuru as owner for all files:
+*       @KarthikeyanAtmakuru
+.semaphore/	@KarthikeyanAtmakuru
+service.yml	@KarthikeyanAtmakuru
